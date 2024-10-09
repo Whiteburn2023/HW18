@@ -35,4 +35,7 @@ public class Animals {
     public void setWeigth(double weigth) {
         this.weigth = weigth;
     }
+    public void walk(){
+        System.out.println("животное идет по земле");
+    }
 }
