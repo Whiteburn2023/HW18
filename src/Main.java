@@ -4,6 +4,7 @@ public class Main {
         dog.move();
         dog.walk();
 
+
         Duck duck = new Duck("кря", 2, 3);
         duck.move();
         duck.walk();
